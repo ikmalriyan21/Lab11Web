@@ -190,9 +190,9 @@ Buat file css pada direktori public dengan nama style.css
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/e5fcdf20e4620808be556d837e0a7d0accf47d53/ci4/gambar/file%20css.png)
 
-
-
+Kemudian buat folder template pada direktori view kemudian buat file header.php dan footer.php
 
 
 
