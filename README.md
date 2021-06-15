@@ -60,13 +60,16 @@ pada environment variable CI_ENVIRINMENT menjadi development.
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/d83086099cfefacf3934941e54e6c88ca67fa4a4/ci4/gambar/production.png)
 
+Ubah nama file env menjadi .env kemudian buka file tersebut dan ubah nilai variable 
+CI_ENVIRINMENT menjadi development.
 
 
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/c2f0e78862fc86159bf1fea01a15a5e1650695de/ci4/gambar/development.png)
 
-
+Dan ini hasil errornya
 
 
 
