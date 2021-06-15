@@ -143,9 +143,9 @@ sudah dapat diakses.
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/e577efa336d389722cbaaf037168063c46062ea9/ci4/gambar/hasil%20output%20dari%20controller%20page.png)
 
-
-
+Tambahkan method baru pada Controller Page seperti berikut.
 
 
 
