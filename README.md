@@ -48,6 +48,36 @@ Dan gunakan perintah untuk memanggil CLI Codeigniter "php spark"
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/b2425fdd6cf0dd7332960e5bf5941726682b51b7/ci4/gambar/php%20spark.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
