@@ -75,6 +75,28 @@ Dan ini hasil errornya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ed007fd1b6dc0b07327f59606c15fee1d7a7a6f3/ci4/gambar/parse%20error.png)
+
+Contoh error yang terjadi. Untuk mencoba error tersebut, ubah kode pada file 
+app/Controller/Home.php hilangkan titik koma pada akhir kode.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
