@@ -31,9 +31,10 @@ diaktifkan. Kemudian simpan kembali filenya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ef72d7155d3950d17692f9528e687012ef72ced2/ci4/gambar/welcome.png)
 
-
-
+Codeigniter 4 menyediakan CLI untuk mempermudah proses development. Untuk 
+mengakses CLI buka terminal/command prompt.
 
 
 
