@@ -103,8 +103,7 @@ Router terletak pada file app/config/Routes.php
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/216c09278dac2267c338ce29214515c323f940dd/ci4/gambar/tempat%20codingan%20router.png)
 
-Membuat Route Baru.
-Tambahkan kode berikut di dalam Routes.php
+Membuat Route Baru.Tambahkan kode berikut di dalam Routes.php
 
 
 
@@ -154,6 +153,24 @@ Tambahkan method baru pada Controller Page seperti berikut.
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/ff7ce046aedcc9ad47b2bfc5251ef19413c2f2c6/ci4/gambar/method%20baru%20controller%20page.png)
 
 Dan ini hasilnya
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/7ec11606c74edd23b1a99e98882588d4d4f34cde/ci4/gambar/hasil%20output%20method%20baru%20controller%20page.png)
+
+Buat file baru dengan nama about.php pada direktori view (app/view/about.php)
+
+
+
+
+
+
+
+
+
+
 
 
 
