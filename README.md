@@ -151,9 +151,9 @@ Tambahkan method baru pada Controller Page seperti berikut.
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ff7ce046aedcc9ad47b2bfc5251ef19413c2f2c6/ci4/gambar/method%20baru%20controller%20page.png)
 
-
-
+Dan ini hasilnya
 
 
 
