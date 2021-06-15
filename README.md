@@ -110,9 +110,9 @@ Tambahkan kode berikut di dalam Routes.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/2be52def552b2ddb950166642b0d0e96f223c983/ci4/gambar/kode%20routes.png)
 
-
-
+Untuk mengetahui route yang ditambahkan sudah benar, buka CLI dengan perintah "php spark routes"
 
 
 
