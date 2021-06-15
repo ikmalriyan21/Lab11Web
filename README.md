@@ -21,7 +21,11 @@ diaktifkan. Kemudian simpan kembali filenya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/5cf85439470133e9784dbb321f3c2f388766a3d5/ci4/gambar/extension.png)
 
+• Unduh Codeigniter dari website https://codeigniter.com/download
+• Extrak file zip Codeigniter ke direktori htdocs/lab11_ci. 
+• Ubah nama direktory framework-4.x.xx menjadi ci4.
 
 
 
