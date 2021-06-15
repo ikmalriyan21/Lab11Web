@@ -182,9 +182,9 @@ Kemudian lakukan refresh pada halaman tersebut.
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/c5459123b76e571c9324e06077b56d0d59cc468a/ci4/gambar/hasil%20output%20ubah%20method%20about.png)
 
-
-
+Buat file css pada direktori public dengan nama style.css
 
 
 
