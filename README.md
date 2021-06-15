@@ -194,6 +194,26 @@ Buat file css pada direktori public dengan nama style.css
 
 Kemudian buat folder template pada direktori view kemudian buat file header.php dan footer.php
 
+File app/view/template/header.php
+
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/c3656f3b4d160628aa4bd115f693852ab99fa1ff/ci4/gambar/codingan%20header.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
