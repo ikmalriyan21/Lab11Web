@@ -166,9 +166,9 @@ Buat file baru dengan nama about.php pada direktori view (app/view/about.php)
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ea773c07fb6ebb1972d21bf6eff6904f26f2ffff/ci4/gambar/codingan%20membuat%20view.png)
 
-
-
+Ubah method about pada class Controller Page menjadi seperti berikut
 
 
 
