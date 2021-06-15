@@ -40,9 +40,9 @@ mengakses CLI buka terminal/command prompt.
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/0f4e411e3e67779bcac8e3f47694b7c4915580e6/ci4/gambar/menjalakan%20CLI.png)
 
-
-
+Dan gunakan perintah untuk memanggil CLI Codeigniter "php spark"
 
 
 
