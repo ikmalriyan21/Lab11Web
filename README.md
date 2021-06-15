@@ -50,15 +50,15 @@ Dan gunakan perintah untuk memanggil CLI Codeigniter "php spark"
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/b2425fdd6cf0dd7332960e5bf5941726682b51b7/ci4/gambar/php%20spark.png)
 
+Semua jenis error akan ditampilkan sama. Untuk memudahkan mengetahui jenis 
+errornya, maka perlu diaktifkan mode debugging dengan mengubah nilai konfigurasi 
+pada environment variable CI_ENVIRINMENT menjadi development.
 
 
 
 
 
-
-
-
-
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/d83086099cfefacf3934941e54e6c88ca67fa4a4/ci4/gambar/production.png)
 
 
 
