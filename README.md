@@ -174,6 +174,28 @@ Ubah method about pada class Controller Page menjadi seperti berikut
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/eb9109a21ba5530d13c9f49c188c233fd1821a6c/ci4/gambar/codingan%20ubah%20method%20about.png)
+
+Kemudian lakukan refresh pada halaman tersebut.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
