@@ -216,9 +216,9 @@ Kemudian ubah file app/view/about.php seperti berikut.
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ea4fa77f5773043a0e1dc20015674981d7fc7d26/ci4/gambar/codingan%20ubah%20about.png)
 
-
-
+Dan ini hasilnya
 
 
 
