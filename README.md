@@ -134,9 +134,10 @@ Selanjutnya adalah membuat Controller Page. Buat file baru dengan nama page.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/95ac6d3ec8f92a0d12bc2cf1ccafac25ad35a94f/ci4/gambar/codingan%20controller%20page.png)
 
-
-
+Selanjutnya refresh Kembali browser, maka akan ditampilkan hasilnya yaitu halaman 
+sudah dapat diakses.
 
 
 
