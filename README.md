@@ -126,6 +126,36 @@ Mengakses file about.php akan terlihat seperti berikut , karena tidak ada isinya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ddf3d7d7dc4491f8b36a084c1a6c91be73323036/ci4/gambar/tampilan%20error%20page.png)
+
+Selanjutnya adalah membuat Controller Page. Buat file baru dengan nama page.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
