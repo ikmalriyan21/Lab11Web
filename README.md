@@ -202,15 +202,15 @@ File app/view/template/header.php
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/c3656f3b4d160628aa4bd115f693852ab99fa1ff/ci4/gambar/codingan%20header.png)
 
+File app/view/template/footer.php
 
 
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/e48a8f518040f66d31e66c6237bcce5811f1ff74/ci4/gambar/codingan%20footer.png)
 
-
-
-
+Kemudian ubah file app/view/about.php seperti berikut.
 
 
 
