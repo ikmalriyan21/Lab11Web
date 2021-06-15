@@ -101,7 +101,7 @@ Router terletak pada file app/config/Routes.php
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/216c09278dac2267c338ce29214515c323f940dd/ci4/gambar/tempat%20codingan%20router.png)
 
 
 
