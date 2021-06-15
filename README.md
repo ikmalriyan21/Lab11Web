@@ -90,7 +90,7 @@ app/Controller/Home.php hilangkan titik koma pada akhir kode.
 
 
 
-![input](
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/f390a73da53c5f7bce0160a8c124822f11266b38/ci4/gambar/hasil%20kode%20home%20titik%20koma.png)
 
 Pada Codeigniter, request yang diterima oleh file index.php akan diarahkan ke Router 
 untuk meudian oleh router tesebut diarahkan ke Controller.
