@@ -118,9 +118,9 @@ Untuk mengetahui route yang ditambahkan sudah benar, buka CLI dengan perintah "p
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/443e28036aec6c9bef3848d7d31e968f3a471989/ci4/gambar/hasil%20php%20spark%20routes.png)
 
-
-
+Mengakses file about.php akan terlihat seperti berikut , karena tidak ada isinya.
 
 
 
