@@ -224,6 +224,25 @@ Dan ini hasilnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/069f26b0fcc4c022a092cf9f000cde5672477367/ci4/gambar/hasil%20output%20layout%20sederhana.png)
+
+Pertanyaan dan Tugas
+Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga 
+semua link pada navigasi header dapat menampilkan tampilan dengan layout yang 
+sama.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
