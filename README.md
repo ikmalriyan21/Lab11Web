@@ -284,6 +284,24 @@ Hasil Outputnya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/13fbaa197ddfde31c8b816eade7f56d1dd254918/ci4/screenshot/hasil%20output%20portal%20berita.png)
+
+Menambahkan data dari sql tabel ke dalam tabel artikel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
