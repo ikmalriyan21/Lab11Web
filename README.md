@@ -291,9 +291,9 @@ Menambahkan data dari sql tabel ke dalam tabel artikel
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/48ebc09e2c8eaa9f710d26d5d440ac2b19c42bc9/ci4/screenshot/database%20sql.png)
 
-
-
+Hasil Outputnya
 
 
 
