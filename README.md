@@ -376,6 +376,39 @@ Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/625265158bcf51a9d8d99c0eb7151c4996ca834d/ci4/screenshot/codingan%20menghapus%20data.png)
+
+# Praktikum 13
+
+Membuat tabel user
+
+CREATE TABLE user (
+ id INT(11) auto_increment,
+ username VARCHAR(200) NOT NULL,
+ useremail VARCHAR(200),
+ userpassword VARCHAR(200),
+ PRIMARY KEY(id)
+);
+
+Membuat model user
+Buat file baru pada direktori app/Models dengan nama UserModel.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
