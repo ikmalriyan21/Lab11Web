@@ -396,9 +396,9 @@ Buat file baru pada direktori app/Models dengan nama UserModel.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/83940c5b9a9d109a8af416f505651eb262765988/ci4/screenshot2/codingan%20usermodel.png)
 
-
-
+Membuat controller user pada direktori app/Controllers User.php
 
 
 
