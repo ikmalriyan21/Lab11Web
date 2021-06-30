@@ -305,5 +305,30 @@ Membuat tampilan detail artikel dengan menambahkan pada app/views/controllers/ar
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/6ae7e739e14346188bdb0bb0d0e58caba8d1213a/ci4/screenshot/view.png)
+
+Membuat view detail dengan nama app/views/artikel/detail.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
