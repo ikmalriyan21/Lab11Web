@@ -368,9 +368,10 @@ Kemudian buat form tambah dengan nama form_edit.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/3e373a6cbd3b652bb7bb064873122eba1eaf2fef/ci4/screenshot/codingan%20form_edit.png)
 
-
-
+Menghapus Data
+Tambahkan fungsi/method baru pada Controller Artikel dengan nama delete().
 
 
 
