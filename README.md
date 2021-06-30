@@ -333,9 +333,9 @@ Membuat app/views/artikel/admin_index.php untuk tampilan admin
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/9e5ed1b3820a9acb02654ed2b36a967db56a6299/ci4/screenshot/codingan%20admin_index%202.png)
 
-
-
+Menambahkan routing pada menu admin, berada di file app/config/routes.php
 
 
 
