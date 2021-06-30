@@ -445,6 +445,34 @@ Selanjutnya buka kembali CLI dan ketik perintah berikut:
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/fa01c88edb571b4ea2183cad9915083414b2466d/ci4/screenshot2/php%20spark%202.png)
+
+Menambahkan Auth Filter
+Buat file baru dengan nama Auth.php pada direktori app/Filters
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
