@@ -420,10 +420,12 @@ Membuat view login app/views/login.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/7cabae9f271f83d3d5b72b657e9a4547658c1e34/ci4/screenshot2/codingan%20view%20login%202.png)
 
+Membuat database seeder
 
-
-
+Untuk keperluan ujicoba modul login, kita perlu memasukkan data user dan password kedaalam database. Untuk itu buat 
+database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
 
 
 
