@@ -262,9 +262,9 @@ Membuat model untuk memproses data Artikel.
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/13b743fc0828da424cca0677e048c9dad3a57e92/ci4/screenshot/codingan%20membuat%20model.png)
 
-
-
+Membuat Controller dengan nama Artikel.php
 
 
 
