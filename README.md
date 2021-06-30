@@ -460,9 +460,9 @@ Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/8bc07891fa46feb9f84dbfacf6e3368350a0b257/ci4/screenshot2/tambahkan%20config%20auth.png)
 
-
-
+Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya
 
 
 
