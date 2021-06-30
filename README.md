@@ -408,9 +408,9 @@ Membuat controller user pada direktori app/Controllers User.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/2849f2c4d26f1b056fd46905138da03f1f14ba5b/ci4/screenshot2/codingan%20controller%20user%202.png)
 
-
-
+Membuat view login app/views/login.php
 
 
 
