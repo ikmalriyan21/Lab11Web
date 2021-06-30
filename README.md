@@ -328,6 +328,30 @@ Membuat app/views/artikel/admin_index.php untuk tampilan admin
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/3e10099877922f620ee23af5ae4974065e734b7d/ci4/screenshot/codingan%20admin_index%201.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
