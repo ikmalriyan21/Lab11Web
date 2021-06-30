@@ -361,7 +361,7 @@ Menambhakan fungsi/method untuk mengubah data pada direktori app/Controllers/Art
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/7c15b5c6c1eade08098073935caa5f4bfb23dbca/ci4/screenshot/codingan%20mengubah%20data.png)
 
 
 
