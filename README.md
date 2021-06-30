@@ -277,9 +277,9 @@ baru dengan nama index.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/f3ccb7f176d64d84ebc1b192ef331d6a5a9869e0/ci4/screenshot/membuat%20view.png)
 
-
-
+Hasil Outputnya
 
 
 
