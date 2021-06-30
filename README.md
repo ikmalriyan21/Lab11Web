@@ -340,9 +340,9 @@ Menambahkan routing pada menu admin, berada di file app/config/routes.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/6285ef00675f403ec53ed827bc9b23f573fde414/ci4/screenshot/tambahkan%20routing.png)
 
-
-
+Menambah data artikel pada direktori app/Controllers/Artikel.php
 
 
 
