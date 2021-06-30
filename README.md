@@ -249,14 +249,15 @@ Membuat table dan database.
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/ca6145204f95af2759512431b1123bb06a9a270d/ci4/screenshot/table%20php%20MyAdmin.png)
 
+Konfigurasi koneksi database untuk menghubungkan dengan database server
+dengan mensetting file .env
 
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/604e0cca90505cd2e14c7a2004e3778984ebef63/ci4/screenshot/koneksi%20database.png)
 
-
-
-
+Membuat model untuk memproses data Artikel.
 
 
 
