@@ -415,6 +415,32 @@ Membuat view login app/views/login.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/343d501a6e4b5396cf11c94f45aa838cff470109/ci4/screenshot2/codingan%20view%20login%201.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
