@@ -354,6 +354,36 @@ Membuat form tambah pada direktori app/views/artikel/form_add.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/b90f3fc658b3fc88451d00d5d645999d51c6dbef/ci4/screenshot/codingan%20form_add.png)
+
+Menambhakan fungsi/method untuk mengubah data pada direktori app/Controllers/Artikel.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
