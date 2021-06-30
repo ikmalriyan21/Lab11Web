@@ -430,9 +430,10 @@ database seeder untuk tabel user. Buka CLI, kemudian tulis perintah berikut:
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ab9957d3e7463e5c130eb339a6488027205d62a8/ci4/screenshot2/php%20spark%201.png)
 
-
-
+buka file UserSeeder.php yang berada di lokasi direktori 
+/app/Database/Seeds/UserSeeder.php kemudian isi dengan kode berikut:
 
 
 
