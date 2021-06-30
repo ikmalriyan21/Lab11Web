@@ -467,9 +467,9 @@ Selanjutnya buka file app/Config/Routes.php dan sesuaikan kodenya
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/8ab251c478a996d5e762fb5ea8e19285745598de/ci4/screenshot2/ubah%20routes.png)
 
-
-
+Fungsi logout
 
 
 
