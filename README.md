@@ -239,3 +239,51 @@ Membuat sourch code seperti berikut pada file app/Controllers
 
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/3e54e0b893747731ee77d7f2b37ebdfaa2f90967/ci4/gambar/tugas.png)
+
+# Praktikum 12
+
+Membuat table dan database.
+
+
+
+
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/ca6145204f95af2759512431b1123bb06a9a270d/ci4/screenshot/table%20php%20MyAdmin.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
