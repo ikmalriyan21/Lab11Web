@@ -320,9 +320,9 @@ Controller Artikel dengan nama admin_index()
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/9835ac5ee2049b6fda7b2520891b1c7f5d3521db/ci4/screenshot/membuat%20menu%20admin.png)
 
-
-
+Membuat app/views/artikel/admin_index.php untuk tampilan admin
 
 
 
