@@ -269,9 +269,10 @@ Membuat Controller dengan nama Artikel.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/dc2bd02342528298f573ee2e31bacf76cdf889fe/ci4/screenshot/codingan%20membuat%20controller.png)
 
-
-
+Membuat direktori baru dengan nama artikel pada direktori app/views, kemudian buat file 
+baru dengan nama index.php
 
 
 
