@@ -453,9 +453,9 @@ Buat file baru dengan nama Auth.php pada direktori app/Filters
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/2537cf55947dbf9ad80862d38e00c5388d37cec0/ci4/screenshot2/codingan%20auth%20filter.png)
 
-
-
+Selanjutnya buka file app/Config/Filters.php tambahkan kode berikut
 
 
 
