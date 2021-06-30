@@ -403,7 +403,7 @@ Membuat controller user pada direktori app/Controllers User.php
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/4c3ac37bfe3b07e20c696ad499a1cf450062ba19/ci4/screenshot2/codingan%20controller%20user%201.png)
 
 
 
