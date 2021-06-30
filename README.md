@@ -438,9 +438,9 @@ buka file UserSeeder.php yang berada di lokasi direktori
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/219dcc7c3666cbdc40360f816f245d31f659dbc5/ci4/screenshot2/codingan%20userseeder.png)
 
-
-
+Selanjutnya buka kembali CLI dan ketik perintah berikut:
 
 
 
