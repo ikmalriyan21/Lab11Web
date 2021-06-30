@@ -312,9 +312,10 @@ Membuat view detail dengan nama app/views/artikel/detail.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/2c8b463c1bca9cf247c505caa9f4e9791601c71f/ci4/screenshot/codingan%20detail.png)
 
-
-
+Membuat menu admin untuk proses CRUD dan buat method baru pada 
+Controller Artikel dengan nama admin_index()
 
 
 
