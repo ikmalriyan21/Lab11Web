@@ -347,9 +347,9 @@ Menambah data artikel pada direktori app/Controllers/Artikel.php
 
 
 
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/0aa83698afaba84286c629c17edf3a8ed6f04e53/ci4/screenshot/codingan%20menambah%20data%20artikel.png)
 
-
-
+Membuat form tambah pada direktori app/views/artikel/form_add.php
 
 
 
