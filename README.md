@@ -300,7 +300,7 @@ Hasil Outputnya
 
 ![input](https://github.com/ikmalriyan21/Lab11Web/blob/526bbf995a185f2833ce9bc6fc076a5dab3c72fd/ci4/screenshot/tampilan%20artikel.png)
 
-
+Membuat tampilan detail artikel dengan menambahkan pada app/views/controllers/artikel.php
 
 
 
