@@ -474,7 +474,4 @@ Fungsi logout
 
 
 
-
-
-
-
+![input](https://github.com/ikmalriyan21/Lab11Web/blob/7587714fe12d3d208c9ab2a56ff982c9d9c35ea7/ci4/screenshot2/fungsi%20logout.png)
